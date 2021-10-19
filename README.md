@@ -1,5 +1,5 @@
 # whatsapp_replica <img width="25" height="25" src="/upload/whatsapp-brands.svg">
-ChatBox Using PHP/Bootstrap/MYSQL And AJAX whit "Whatsapp Web app" style
+ChatBox Using PHP/Bootstrap/MYSQL And AJAX whit "WhatsApp Web app" style
 
 Basic level study project with a demonstration video on YouTube <br>
 <b>Live demo</b>><a href="//www.mercenaryofcodes.it/project/index.php"> watch demo</a><br>
