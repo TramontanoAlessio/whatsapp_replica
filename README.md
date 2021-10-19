@@ -3,5 +3,6 @@ ChatBox Using PHP/Bootstrap/MYSQL And AJAX whit "Whatsapp Web app" style
 
 Basic level study project with demonstration video on YouTube <br>
 Live demo > www.mercenaryofcodes.it/project/index.php
-
+<hr>
+<b>Lesson</b>
 - First lesson: Layout creation using Bootstrap 5.1 & CSS (with "Media query" technique)
