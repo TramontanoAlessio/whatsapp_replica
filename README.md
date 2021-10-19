@@ -1,4 +1,4 @@
-# whatsapp_replica <img width="500" height="350" src="upload/whatsapp-brands" alt="Awesome" style="max-width: 100%;">
+# whatsapp_replica <img width="50" height="50" src="upload/whatsapp-brands">
 ChatBox Using PHP/Bootstrap/MYSQL And AJAX whit "Whatsapp Web app" style
 
 Basic level study project with demonstration video on YouTube <br>
