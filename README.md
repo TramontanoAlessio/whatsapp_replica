@@ -5,4 +5,5 @@ Basic level study project with demonstration video on YouTube <br>
 Live demo > www.mercenaryofcodes.it/project/index.php
 <hr>
 <b>Lesson</b><br>
-- First lesson: Layout creation using Bootstrap 5.1 & CSS (with "Media query" technique)
+- First lesson: Layout creation using Bootstrap 5.1 & CSS (with "Media query" technique) [Video available soon]
+
