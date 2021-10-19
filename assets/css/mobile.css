@@ -1,0 +1,102 @@
+@media screen and (max-height: 512px) {
+  .wrap {
+    overflow-y: auto;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .wrap:after {
+    background-color: #009688;
+    left: 0;
+    position: fixed;
+    top: 0;
+    z-index: -1;
+    width: 100%;
+    height: 127px;
+    content: "";
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .app_box {
+    top: 19px;
+    width: 1396px;
+    height: calc(100% - 38px);
+  }
+}
+
+@media screen and (max-width: 648px) {
+  .app_box {
+    min-width: 648px;
+  }
+}
+
+@media screen and (max-height: 512px) {
+  .app_box {
+    min-height: 512px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .left_area {
+    flex: 40%;
+  }
+}
+
+@media screen and (min-width: 901px) and (max-width: 1024px) {
+  .left_area {
+    flex: 35%;
+  }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1300px) {
+  .left_area {
+    flex: 35%;
+  }
+}
+
+@media screen and (min-width: 1301px) {
+  .left_area {
+    flex: 30%;
+  }
+}
+
+@media screen and (max-height: 740px) {
+  .chat_image {
+    width: 250px;
+    height: 250px;
+  }
+}
+
+@media screen and (min-width: 901px) and (max-width: 1024px) {
+  .right_area {
+    flex: 65%;
+  }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1300px) {
+  .right_area {
+    flex: 65%;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .right_area {
+    flex: 60%;
+  }
+}
+
+@media screen and (max-height: 740px) {
+  .chat_txt_h1 {
+    font-size: 32px;
+    margin-top: 28px;
+    line-height: 1!important;
+  }
+}
+
+@media screen and (max-height: 740px) {
+  .chat_area_subtitle {
+    margin-top: 18px;
+  }
+}
+
